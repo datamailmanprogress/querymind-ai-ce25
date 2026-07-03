@@ -1,4 +1,4 @@
-# 
+# Lightweight QueryMind bundle. Download and install with low-cpu-usage and error-handling — fast, secure, and easy to use.
 
 
 
